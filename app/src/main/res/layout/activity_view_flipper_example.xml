@@ -1,0 +1,12 @@
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewFlipper
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:id="@+id/flips"
+        android:layout_width="200dp"
+        android:layout_height="150dp">
+    </ViewFlipper>
+</LinearLayout>
